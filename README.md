@@ -18,3 +18,7 @@ Step 2. Start Server
 Step 3. Go Live
 
 >www/index.html
+
+
+
+![Screenshot](https://i.ibb.co/30Lxyq1/Screenshot-7.png)
