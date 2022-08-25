@@ -1,3 +1,5 @@
+UPDATE 25.08.2022 : https://aws.github.io/amazon-ivs-web-broadcast/
+
 # aws-ivs-broadcast-from-browser
 Broadcast from browser for AWS IVS
 
